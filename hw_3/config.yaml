@@ -1,0 +1,7 @@
+FOLDER_IN: /home/sant/tests
+FOLDER_OUT: /home/sant/out
+FOLDER_EXTRACT: /home/sant/folder1
+FOLDER_EXTRACT2: /home/sant/folder_test
+count: 5
+size: 1M
+extension: zip
